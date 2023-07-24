@@ -7,6 +7,7 @@
  
  -Higher National Diploma | GUSTO University (_December 2017_)
 
+
  ## Work Experience
  
  **Data Analyst @ KBZ Bank (Agent Banking)**
