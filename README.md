@@ -1,5 +1,4 @@
-# Data Analyst | Business Intelligence Analyst
-
+# Data Analyst | BI Analyst
 
 
 #### Technical Skills: Python, SQL, MS Power BI, Advanced Excel, 
@@ -9,6 +8,7 @@
  -Higher National Diploma | GUSTO University (_December 2017_)
 
  ## Work Experience
+ 
  **Data Analyst @ KBZ Bank (Agent Banking)**
  
 ##### Responsibilities
