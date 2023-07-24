@@ -39,6 +39,7 @@
 -Fostered effective collaboration with an external data engineering team to ensure seamless data alignment across different departments, promoting better data integration and accuracy.
 
 **Data Analyst @ Million Mart Group**
+
 -Extract and transform sales data from POS and ERP databases to analyze KPIs and metrics with Power BI and dashboards
 
 -Create daily, weekly, and monthly reports on sales trends and customer buying behavior.
