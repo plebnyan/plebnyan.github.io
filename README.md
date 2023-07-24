@@ -8,11 +8,12 @@
  -Higher National Diploma | GUSTO University (_December 2017_)
 
 
- ## Work Experience
+## Work Experience
  
  **Data Analyst @ KBZ Bank (Agent Banking)**
  
 ##### Responsibilities
+
 -Deliver weekly and monthly business insights reports to senior management, providing data-driven recommendations.
 
 -Create and maintain interactive Power BI, SQL, and Python dashboards to track KPIs in daily transactions.
@@ -26,7 +27,9 @@
 -Manage databases, conduct SQL querying, and manipulate data for analysis and reporting.
 
 -Participate in project planning and execution to achieve objectives.
+
 ##### Achievements
+
 -Designed and implemented a highly efficient local MS SQL data ecosystem, resulting in a significant reduction in team workload.
 
 -Successfully automated daily and weekly reports by creating robust data pipelines with Python and SQL, leading to enhanced operational efficiency.
@@ -34,3 +37,17 @@
 -Played a pivotal role in conducting crucial ad-hoc analytic projects to support internal decision-making, including a comprehensive feasibility study for the deployment of a new feature in the KBZPay app.
 
 -Fostered effective collaboration with an external data engineering team to ensure seamless data alignment across different departments, promoting better data integration and accuracy.
+
+**Data Analyst @ Million Mart Group**
+-Extract and transform sales data from POS and ERP databases to analyze KPIs and metrics with Power BI and dashboards
+
+-Create daily, weekly, and monthly reports on sales trends and customer buying behavior.
+
+-Perform analysis on competitors' prices across the country to give useful insight to procurment department 
+
+-Measure ongoing promotions performance with KPI and metrics 
+
+-Generate sales forecasting reports for 30 retail outlets.
+
+-Perform complex SQL query to provide data requests from internal department or external vendors
+
