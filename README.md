@@ -5,12 +5,12 @@
 ## Education
  -Bachelor of Computer Science (Honours)| The University of Gloucestershire (_March2021_)
  
- -Higher National Diploma | GUSTO University (_December 2017_)
+ -Higher National Diploma| GUSTO University (_December 2017_)
 
 
 ## Work Experience
  
- **Data Analyst @ KBZ Bank (Agent Banking)**
+ **Data Analyst @ KBZ Pay (_Feb 2023-Present_)**
  
 ##### Responsibilities
 
@@ -38,7 +38,7 @@
 
 -Fostered effective collaboration with an external data engineering team to ensure seamless data alignment across different departments, promoting better data integration and accuracy.
 
-**Data Analyst @ Million Mart Group**
+**Data Analyst @ Million Mart Group (_May-2021-Jan-2023)**
 
 -Extract and transform sales data from POS and ERP databases to analyze KPIs and metrics with Power BI and dashboards
 
@@ -52,3 +52,4 @@
 
 -Perform complex SQL query to provide data requests from internal department or external vendors
 
+## Projects
