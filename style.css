@@ -1,0 +1,108 @@
+/* styles.css */
+
+/* Resetting margin and padding */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Body */
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f8f8f8; /* Light gray background */
+}
+
+/* Header */
+header {
+    background-color: #232f3e; /* Dark blue background */
+    color: #ffffff; /* White text */
+    padding: 15px 0;
+    text-align: center;
+}
+
+h1 {
+    font-size: 36px;
+}
+
+p {
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+
+/* Navigation */
+nav {
+    background-color: #37475a; /* Dark blue background */
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+nav a {
+    color: #ffffff; /* White text */
+    text-decoration: none;
+    padding: 15px 20px;
+    display: inline-block;
+    transition: background-color 0.3s;
+}
+
+nav a:hover {
+    background-color: #1a1a1a; /* Dark gray background */
+}
+
+/* Sections */
+section {
+    padding: 50px 20px;
+    text-align: center;
+    margin-bottom: 20px;
+    border-radius: 10px;
+}
+
+section#about {
+    background-color: #ffffff; /* White background */
+}
+
+section#projects {
+    background-color: #f8f8f8; /* Light gray background */
+}
+
+section#contact {
+    background-color: #ffffff; /* White background */
+}
+
+/* Footer */
+footer {
+    background-color: #232f3e; /* Dark blue background */
+    color: #ffffff; /* White text */
+    padding: 10px 0;
+    text-align: center;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
+
+/* Social Media Icons */
+.contact-links {
+    margin-top: 20px;
+}
+
+.contact-links a {
+    color: #333;
+    text-decoration: none;
+    margin: 0 10px;
+    font-size: 24px;
+}
+
+/* Hover Effect for Social Media Icons */
+.contact-links a:hover {
+    color: #777;
+}
+#logos {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+#logos img {
+    width: 40px; /* Adjust the width as needed */
+    height: auto; /* Maintain aspect ratio */
+    margin: 0 10px; /* Adjust margin as needed */
+}
