@@ -1,4 +1,4 @@
-/* styles.css */
+/* style.css */
 
 /* Resetting margin and padding */
 * {
@@ -10,29 +10,30 @@
 /* Body */
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    background-color: #f8f8f8; /* Light gray background */
+    background-color: #f5f5f5; /* Light gray background */
 }
 
 /* Header */
-header {
-    background-color: #232f3e; /* Dark blue background */
+.header {
+    background-color: #232f3e; /* AWS Dark blue background */
     color: #ffffff; /* White text */
     padding: 15px 0;
     text-align: center;
+    width: 80%; /* Set header width to 80% */
+    margin-left: 20%;
 }
 
 h1 {
     font-size: 36px;
 }
 
-p {
-    font-size: 18px;
-    margin-bottom: 20px;
+h3 {
+    font-size: 24px;
 }
 
 /* Navigation */
 nav {
-    background-color: #37475a; /* Dark blue background */
+    background-color: #232f3e; /* AWS Dark blue background */
     text-align: center;
     margin-bottom: 20px;
 }
@@ -46,7 +47,7 @@ nav a {
 }
 
 nav a:hover {
-    background-color: #1a1a1a; /* Dark gray background */
+    background-color: #1c2733; /* Darker blue background on hover */
 }
 
 /* Sections */
@@ -67,11 +68,14 @@ section#projects {
 
 section#contact {
     background-color: #ffffff; /* White background */
+    width: 80%; /* Set contact section width to 80% */
+    margin-left: 20%; /* Add left margin equivalent to sidebar width */
+    text-align: center; /* Center-align text within the contact section */
 }
 
 /* Footer */
 footer {
-    background-color: #232f3e; /* Dark blue background */
+    background-color: #232f3e; /* AWS Dark blue background */
     color: #ffffff; /* White text */
     padding: 10px 0;
     text-align: center;
@@ -96,13 +100,58 @@ footer {
 .contact-links a:hover {
     color: #777;
 }
-#logos {
-    text-align: center;
+
+/* Sidebar */
+.sidebar {
+    background-color: #f8f8f8; /* AWS Light gray background */
+    padding: 20px;
+    width: 20%; /* Set sidebar width to 20% */
+    position: fixed;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    overflow-y: auto;
+}
+
+.sidebar h2 {
+    color: #333; /* Dark gray text */
     margin-bottom: 20px;
 }
 
-#logos img {
-    width: 40px; /* Adjust the width as needed */
-    height: auto; /* Maintain aspect ratio */
-    margin: 0 10px; /* Adjust margin as needed */
+.sidebar a {
+    color: #333; /* Dark gray text */
+    text-decoration: none;
+    display: block;
+    padding: 10px 0;
+    transition: background-color 0.3s;
+}
+
+.sidebar a:hover {
+    background-color: #e5e5e5; /* Light gray background on hover */
+}
+
+/* Main Content */
+.main-content {
+    width: 80%; /* Set content width to 80% */
+    margin-left: 20%; /* Add left margin equivalent to sidebar width */
+    text-align: center; /* Center-align text within the content area */
+}
+
+/* Additional styles for mid class */
+.mid {
+    align-content: center;
+    margin: auto;
+    width: 50%;
+    border: 3px;
+    padding: 10px;
+}
+
+/* Tech Stack Section */
+section#tech-stack ul {
+    list-style-type: none; /* Remove bullet points */
+    padding: 0;
+}
+
+section#tech-stack li {
+    margin-bottom: 5px; /* Add spacing between list items */
 }
