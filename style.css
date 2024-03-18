@@ -155,3 +155,25 @@ section#tech-stack ul {
 section#tech-stack li {
     margin-bottom: 5px; /* Add spacing between list items */
 }
+
+/* Media queries for responsiveness */
+@media screen and (max-width: 768px) {
+    .sidebar {
+        width: 100%; /* Set sidebar width to 100% on smaller screens */
+        position: relative; /* Remove fixed positioning */
+        margin-bottom: 20px; /* Add margin to separate from content */
+    }
+
+    .main-content {
+        width: 100%; /* Set content width to 100% on smaller screens */
+        margin-left: 0; /* Remove left margin */
+    }
+
+    section {
+        padding: 30px 10px; /* Adjust section padding on smaller screens */
+    }
+
+    footer {
+        width: 100%; /* Set footer width to 100% on smaller screens */
+    }
+}
